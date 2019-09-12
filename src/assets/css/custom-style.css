@@ -1,0 +1,15 @@
+.header, .welcome-message, .function{
+    padding: 10px;
+}
+.header{
+    background: #333;
+    color: #fff;
+}
+
+.welcome-message{
+    background: #f5f5f5;
+}
+
+.function{
+    background: #ddd;
+}
