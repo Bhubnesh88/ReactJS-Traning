@@ -4,6 +4,11 @@ import './index.css';
 import './assets/css/custom-style.css'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import { Route, NavLink, BrowserRouter as Router, Switch } from "react-router-dom";
+
+
+
+
 
 ReactDOM.render(<App message="my friend" />, document.getElementById('root'));
 
