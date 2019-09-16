@@ -14,7 +14,7 @@ class Header extends React.Component {
             </div>
             <div className="col-md-9">
               <nav>
-                <ul className="list-unstyled d-flex justify-content-end">
+                <ul className="list-unstyled d-flex justify-content-end m-0">
                   <li>
                     <NavLink to="/">Home</NavLink>
                   </li>
