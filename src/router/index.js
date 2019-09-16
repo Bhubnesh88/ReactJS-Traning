@@ -6,7 +6,7 @@ import Contact from '../components/contact/contact';
 
 
 function Home() {
-  return <h2>Home</h2>;
+  return <h2 className="mt-2">Home</h2>;
 }
 
 function AppRouter() {
