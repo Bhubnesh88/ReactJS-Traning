@@ -1,6 +1,5 @@
 import React from 'react';
-import { Route, Switch } from "react-router-dom";
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Header from '../components/header/header';
 import About from '../components/about/about';
 import Contact from '../components/contact/contact';
